@@ -2,7 +2,7 @@ package academy.devdojo.classes;
 
 import java.util.Scanner;
 
-public class A07Switch02 {
+public class A08Switch02 {
 
     public static void main(String[] args) {
 
